@@ -1,0 +1,479 @@
+{
+    "id": "pag12ph1m9ff1bjr8wz0v8s5",
+    "title": "My dev",
+    "slug": "My Perfact dev",
+    "data": {
+        "metadata": {
+            "css": {
+                "value": ".section {\n\toutline: 1px solid #000;\n\toutline-offset: 4px;\n}",
+                "visible": false
+            },
+            "notes": "",
+            "page": {
+                "format": "a4",
+                "margin": 18,
+                "options": {
+                    "break_line": true,
+                    "page_numbers": true
+                }
+            },
+            "template": "rhyhorn",
+            "theme": {
+                "background": "#ffffff",
+                "primary": "#dc2626",
+                "text": "#000000"
+            },
+            "typography": {
+                "font": {
+                    "family": "IBM Plex Serif",
+                    "size": 14,
+                    "subset": "latin",
+                    "variants": [
+                        "regular",
+                        "italic",
+                        "600"
+                    ]
+                },
+                "hide_icons": false,
+                "line_height": 1.5,
+                "underline_links": true
+            }
+        },
+        "sections": [
+            {
+                "columns": 1,
+                "id": "gsq75m75jmvnvr5279yaajr7",
+                "items": [
+                    {
+                        "avatar": {
+                            "aspect_ratio": 1,
+                            "border_radius": 0,
+                            "effects": {
+                                "border": false,
+                                "grayscale": false,
+                                "hidden": false
+                            },
+                            "size": 64,
+                            "url": "https://oss.pandaemporium.com/products/temp/生成维佳 logo (12).jpeg"
+                        },
+                        "custom_fields": [
+                            {
+                                "icon": "",
+                                "id": "baqwt82cdp89ktq1867s09rl",
+                                "name": "sdfsdf",
+                                "value": "dsfsdfsd0"
+                            }
+                        ],
+                        "email": "466066211@qq.com",
+                        "headline": "this is my head line8",
+                        "location": "Beijing9",
+                        "name": "micross pan",
+                        "phone": "18070629913",
+                        "url": {
+                            "href": "https://www.qq.com",
+                            "label": "github"
+                        },
+                        "visible": true
+                    }
+                ],
+                "model": "BASICS",
+                "name": "Basics",
+                "position": "MAIN",
+                "separate_links": true,
+                "visible": true
+            },
+            {
+                "columns": 1,
+                "id": "idyph00uhz53k53kh2uxw7vu",
+                "items": [
+                    {
+                        "awarder": "dfgdfg",
+                        "date": "dfdffffff",
+                        "id": "owgxuxnndee81kjpsok9uzee",
+                        "summary": "<p>dgdfgdfgdfgdf</p>",
+                        "title": "dfgg",
+                        "url": {
+                            "href": "https://sfsdfs.ss",
+                            "label": ""
+                        },
+                        "visible": true
+                    }
+                ],
+                "model": "AWARDS",
+                "name": "Awards",
+                "separate_links": true,
+                "position": "SIDEBAR",
+                "visible": true
+            },
+            {
+                "columns": 1,
+                "id": "c5dvuz0hx55hgza89zh5i7zm",
+                "items": [
+                    {
+                        "date": "2020",
+                        "id": "spdhh9rrqi1gvj0yqnbqunlo",
+                        "issuer": "CodeAcademy",
+                        "name": "Full-Stack Web Development",
+                        "summary": "<p>dsfsdfsdfsdsssdd</p>",
+                        "url": {
+                            "href": "https://aaa.cc",
+                            "label": ""
+                        },
+                        "visible": true
+                    },
+                    {
+                        "date": "2019",
+                        "id": "n838rddyqv47zexn6cxauwqp",
+                        "issuer": "Amazon Web Services",
+                        "name": "AWS Certified Developer",
+                        "summary": "<p>sdfdsfsdfdsfsdfds</p>",
+                        "url": {
+                            "href": "https://baidu.com",
+                            "label": ""
+                        },
+                        "visible": true
+                    }
+                ],
+                "model": "CERTIFICATIONS",
+                "name": "Certifications",
+                "separate_links": true,
+                "position": "SIDEBAR",
+                "visible": true
+            },
+            {
+                "columns": 1,
+                "id": "phwp27yw62pttoe3ggttke99",
+                "items": [
+                    {
+                        "area": "Berkeley, CA",
+                        "date": "August 2012 to May 2016",
+                        "id": "yo3p200zo45c6cdqc6a2vtt3",
+                        "institution": "University of California",
+                        "score": "448",
+                        "study_type": "Bachelor's in Computer Science",
+                        "summary": "<p>我在qq学习的</p>",
+                        "url": {
+                            "href": "https://qq.com",
+                            "label": ""
+                        },
+                        "visible": true
+                    }
+                ],
+                "model": "EDUCATION",
+                "name": "Education",
+                "separate_links": true,
+                "position": "MAIN",
+                "visible": true
+            },
+            {
+                "columns": 1,
+                "id": "s8su7ntq9kzaet87jzyedu1x",
+                "items": [
+                    {
+                        "company": "Creative Solutions Inc.",
+                        "date": "January 2019 to Present",
+                        "id": "lhw25d7gf32wgdfpsktf6e0x",
+                        "location": "San Francisco, CAA",
+                        "position": "Senior Web Developer",
+                        "summary": "<ul><li><p>Spearheaded the redesign of the main product website, resulting in a 40% increase in user engagement.</p></li><li><p>Developed and implemented a new responsive framework, improving cross-device compatibility.</p></li><li><p>Mentored a team of four junior developers, fostering a culture of technical excellence.</p></li></ul>",
+                        "url": {
+                            "href": "https://creativesolutions.inc/",
+                            "label": ""
+                        },
+                        "visible": true
+                    },
+                    {
+                        "company": "TechAdvancers",
+                        "date": "June 2016 to December 2018",
+                        "id": "r6543lil53ntrxmvel53gbtm",
+                        "location": "San Jose, CA",
+                        "position": "Web Developer",
+                        "summary": "<ul><li><p>Collaborated in a team of 10 to develop high-quality web applications using React.js and Node.js.</p></li><li><p>Managed the integration of third-party services such as Stripe for payments and Twilio for SMS services.</p></li><li><p>Optimized application performance, achieving a 30% reduction in load times.</p></li></ul>",
+                        "url": {
+                            "href": "https://techadvancers.com/",
+                            "label": ""
+                        },
+                        "visible": true
+                    }
+                ],
+                "model": "EXPERIENCE",
+                "name": "Experience",
+                "separate_links": true,
+                "position": "MAIN",
+                "visible": true
+            },
+            {
+                "columns": 1,
+                "id": "xoc0gfanmg92v3i45soadmxf",
+                "items": [
+                    {
+                        "id": "c81cnt9fq1idam0y8zxa5rgs",
+                        "keywords": [],
+                        "name": "sfs",
+                        "visible": true
+                    },
+                    {
+                        "id": "ephqzf5lq5rt71qx3ulkuuv7",
+                        "keywords": [],
+                        "name": "ffffrr",
+                        "visible": true
+                    }
+                ],
+                "model": "INTERESTS",
+                "name": "Interests",
+                "separate_links": true,
+                "position": "SIDEBAR",
+                "visible": true
+            },
+            {
+                "columns": 1,
+                "id": "v25240plzywm2soi3254fo49",
+                "items": [
+                    {
+                        "description": "dfgdg",
+                        "id": "m09m8cn9uixgo85xof18a7om",
+                        "level": 1,
+                        "name": "fdgfdg",
+                        "visible": true
+                    },
+                    {
+                        "description": "fgfdgdf",
+                        "id": "xijri4beyc1rxu6vln9hzr0j",
+                        "level": 1,
+                        "name": "fgdfg",
+                        "visible": true
+                    }
+                ],
+                "model": "LANGUAGES",
+                "name": "Languages",
+                "separate_links": true,
+                "position": "SIDEBAR",
+                "visible": true
+            },
+            {
+                "columns": 1,
+                "id": "ms32fjrg97tdffckyw6sd1tx",
+                "items": [
+                    {
+                        "icon": "linkedin",
+                        "id": "cnbk5f0aeqvhx69ebk7hktwd",
+                        "network": "LinkedIn",
+                        "url": {
+                            "href": "https://linkedin.com/in/johndoeg",
+                            "label": ""
+                        },
+                        "username": "johndoe",
+                        "visible": true
+                    },
+                    {
+                        "icon": "github",
+                        "id": "ukl0uecvzkgm27mlye0wazlb",
+                        "network": "GitHub",
+                        "url": {
+                            "href": "https://github.com/johndoe",
+                            "label": ""
+                        },
+                        "username": "johndoefff9",
+                        "visible": true
+                    }
+                ],
+                "model": "PROFILES",
+                "name": "Profiles",
+                "separate_links": true,
+                "position": "MAIN",
+                "visible": true
+            },
+            {
+                "columns": 1,
+                "id": "fnrfn4qr5dr249fqpq4vlgu4",
+                "items": [
+                    {
+                        "date": "2019",
+                        "description": "",
+                        "id": "yw843emozcth8s1ubi1ubvlf",
+                        "keywords": [
+                            "Git"
+                        ],
+                        "name": "E-Commerce Platform",
+                        "summary": "",
+                        "url": {
+                            "href": "https://aaa.cc",
+                            "label": ""
+                        },
+                        "visible": true
+                    },
+                    {
+                        "date": "2019",
+                        "description": "",
+                        "id": "ncxgdjjky54gh59iz2t1xi1v",
+                        "keywords": [
+                            "Django"
+                        ],
+                        "name": "Interactive Dashboard",
+                        "summary": "",
+                        "url": {
+                            "href": "https://aaa.cc",
+                            "label": ""
+                        },
+                        "visible": true
+                    }
+                ],
+                "model": "PROJECTS",
+                "name": "Projects",
+                "separate_links": true,
+                "position": "MAIN",
+                "visible": true
+            },
+            {
+                "columns": 1,
+                "id": "a126efwffof33kjom94rgcfe",
+                "items": [],
+                "model": "PUBLICATIONS",
+                "name": "Publications",
+                "separate_links": true,
+                "position": "SIDEBAR",
+                "visible": true
+            },
+            {
+                "columns": 1,
+                "id": "ehk987v006yplvj5tqed4q8b",
+                "items": [
+                    {
+                        "description": "",
+                        "id": "f2sv5z0cce6ztjl87yuk8fak",
+                        "name": "Available upon request",
+                        "summary": "",
+                        "url": {
+                            "href": "",
+                            "label": ""
+                        },
+                        "visible": true
+                    }
+                ],
+                "model": "REFERENCES",
+                "name": "References",
+                "separate_links": true,
+                "position": "MAIN",
+                "visible": true
+            },
+            {
+                "columns": 1,
+                "id": "lqvyzfpzmqqbvs5iq5x3mgoy",
+                "items": [
+                    {
+                        "description": "",
+                        "id": "hn0keriukh6c0ojktl9gsgjm",
+                        "keywords": [
+                            "HTML5",
+                            "JavaScript",
+                            "PHP",
+                            "Python"
+                        ],
+                        "level": 2,
+                        "name": "Web Technologies",
+                        "visible": true
+                    },
+                    {
+                        "description": "",
+                        "id": "r8c3y47vykausqrgmzwg5pur",
+                        "keywords": [
+                            "React.js",
+                            "Angular",
+                            "Vue.js",
+                            "Laravel",
+                            "Django"
+                        ],
+                        "level": 2,
+                        "name": "Web Frameworks",
+                        "visible": true
+                    },
+                    {
+                        "description": "",
+                        "id": "b5l75aseexqv17quvqgh73fe",
+                        "keywords": [
+                            "Webpack",
+                            "Git",
+                            "Jenkins",
+                            "Docker",
+                            "JIRA"
+                        ],
+                        "level": 2,
+                        "name": "Tools",
+                        "visible": true
+                    }
+                ],
+                "model": "SKILLS",
+                "name": "Skills",
+                "separate_links": true,
+                "position": "SIDEBAR",
+                "visible": true
+            },
+            {
+                "columns": 1,
+                "id": "t37m90radhrxwx2nmyty5s8w",
+                "items": [
+                    {
+                        "content": "<p>Innovative Web Developer with 5 years of experience in building impactful and user-friendly websites and applications. Specializes in <strong>front-end technologies</strong> and passionate about modern web standards and cutting-edge development techniques. Proven track record of leading successful projects from concept to deployment.</p>",
+                        "id": "r8c3y47vykausqrgmzwg5puk",
+                        "visible": true
+                    }
+                ],
+                "model": "SUMMARY",
+                "name": "Summary",
+                "separate_links": true,
+                "position": "MAIN",
+                "visible": true
+            },
+            {
+                "columns": 1,
+                "id": "ecrljwrzjz70disy6jsl3hp9",
+                "items": [],
+                "model": "VOLUNTEER",
+                "name": "Volunteering",
+                "separate_links": true,
+                "position": "MAIN",
+                "visible": true
+            },
+            {
+                "columns": 1,
+                "id": "v13vl7nqude80gk52x10srw4",
+                "items": [],
+                "model": "CUSTOM",
+                "name": "Custom",
+                "separate_links": true,
+                "position": "SIDEBAR",
+                "visible": true
+            },
+            {
+                "columns": 1,
+                "id": "ssrztct48u01ymbfyx65uf60",
+                "items": [
+                    {
+                        "date": "2019",
+                        "description": "",
+                        "id": "",
+                        "keywords": [],
+                        "location": "Beijing9",
+                        "name": "",
+                        "summary": "",
+                        "url": {
+                            "href": "",
+                            "label": ""
+                        },
+                        "visible": true
+                    }
+                ],
+                "model": "CUSTOM",
+                "name": "Custom Section",
+                "separate_links": true,
+                "position": "SIDEBAR",
+                "visible": false
+            }
+        ]
+    },
+    "locked": 0,
+    "user_id": "n4xnlbnvzmcn49ungcefzddv",
+    "visibility": 0,
+    "created_at": "2024-11-13T06:00:40Z",
+    "updated_at": "2024-11-13T06:00:40Z"
+}
