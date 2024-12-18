@@ -1,0 +1,1 @@
+export { default as BadgeInput } from './BadgeInput.vue'
