@@ -7,7 +7,6 @@ import {
     skillSchema,
     type SectionItem,
     defaultSkill,
-    type URL,
     type Skill,
 } from "~/lib/schema";
 import * as v from "valibot";

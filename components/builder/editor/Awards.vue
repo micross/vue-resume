@@ -12,7 +12,6 @@ import {
 } from "~/lib/schema";
 import * as v from "valibot";
 import { toTypedSchema } from "@vee-validate/valibot";
-import { ref } from "vue";
 import {UrlInput, TiptapEditor} from "../shared";
 
 
@@ -35,11 +34,6 @@ const { defineField, handleSubmit } = useForm<FormValues>({
 
 
 const resumeStore = useResumeStore();
-
-
-const create = () => {
-    props.section.items.push({ ...defaultAward, id: createId() })
-}
 
 
 const handleUrl = (value: URL) => {

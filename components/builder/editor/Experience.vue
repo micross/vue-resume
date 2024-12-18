@@ -12,7 +12,6 @@ import {
 } from "~/lib/schema";
 import * as v from "valibot";
 import { toTypedSchema } from "@vee-validate/valibot";
-import { ref } from "vue";
 import {UrlInput} from "../shared";
 import TiptapEditor from '../shared/TiptapEditor.vue'
 
